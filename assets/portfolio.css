@@ -1,3 +1,7 @@
-header {
+header ul {
     background-color: aquamarine;
+    font-size: 20px;
+    font-family: serenity,sans-serif;
+    font-weight: 500;
+    font-style: normal;
 }
