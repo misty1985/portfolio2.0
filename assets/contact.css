@@ -39,3 +39,15 @@ color: rgb(253, 253, 253);
  button {
      height: 89px;
  }
+
+ .footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   height: 40px;
+   width: 100%;
+   background-color: rgb(0, 0, 0);
+   box-shadow: 0px 10px 10px 0px rgba(90, 196, 238, 0.308), 0 6px 20px 0 rgba(90, 196, 238, 0.226);
+   color: white;
+   text-align: center;
+}
