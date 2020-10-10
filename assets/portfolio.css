@@ -1,6 +1,6 @@
 header ul {
     background-color: rgb(0, 0, 0);
-    font-size: 20px;
+    font-size: 35px;
     font-family: serenity,sans-serif;
     font-weight: 500;
     font-style: normal;
@@ -9,9 +9,32 @@ header ul {
 body {
     background-color: rgb(0, 0, 0);
 }
+.container-fluid {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+   
+
+}
 
 .card {
     background-color: rgb(0, 0, 0);
-    
+    border: 5px;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 8px 0 rgba(90, 196, 238, 0.226), 0 6px 20px 0 rgba(90, 196, 238, 0.226);
+    font-family: gill-sans-nova, sans-serif;
+    font-weight: 400;
+    font-style: bold;
+    letter-spacing: 1px;
     color: rgb(253, 253, 253); 
 }
+
+
+h5 {
+    font-size: 25px;
+}
+
+p {
+    font-size: 18px;
+}
+
