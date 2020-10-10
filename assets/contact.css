@@ -22,8 +22,16 @@ body{
     letter-spacing: 1px;
 }
 
+
 .card {
 width: 500px;
 background-color: rgba(111, 202, 202, 0);
 
 }
+ a {
+     height: 164px;
+ }
+
+ button {
+     height: 89px;
+ }
