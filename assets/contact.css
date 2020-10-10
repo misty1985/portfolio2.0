@@ -7,7 +7,7 @@ header ul {
 }
 
 body{
-    background-color: rgba(111, 202, 202, 0.425);
+   background-color: rgb(0, 0, 0);
 }
 
 .container-fluid {
@@ -25,11 +25,15 @@ body{
 
 .card {
 width: 500px;
-background-color: rgba(111, 202, 202, 0);
-
+background-color: rgb(0, 0, 0);
+border: 5px;
+box-shadow: 0px 10px 10px 0px rgba(90, 196, 238, 0.308), 0 6px 20px 0 rgba(90, 196, 238, 0.226);
+color: rgb(253, 253, 253); 
 }
- a {
+ #contactlinks{
+     font-size: 40px;
      height: 164px;
+     line-height: 140px;
  }
 
  button {
