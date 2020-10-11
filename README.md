@@ -1,7 +1,8 @@
 # portfolio2.0
 Personal Portfolio
 ## Summary
-This is my personal portfolio. It contains a index.html which doubles as a bio page, a portfolio page, and a working contact page.
+This is my personal portfolio. It contains a index.html which doubles as a bio page, a portfolio page, and a contact page.
+It contains my GitHub, Linkedin info, and a picture of my cat Apollo. 
 
 ## Tools
 Bootstrap 
