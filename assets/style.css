@@ -22,7 +22,13 @@ color: rgb(253, 253, 253);
     font-weight: 400;
     font-style: bold;
 }
+h5 {
+    font-size: 25px;
+}
 
+p {
+    font-size: 18px;
+}
 .footer {
    position: fixed;
    left: 0;
